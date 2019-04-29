@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+
+[packages]
+jupyter = "*"
+nltk = "*"
+gensim = "*"
+"beautifulsoup4" = "*"
+justext = "*"
+"urllib3" = "*"
+unidecode = "*"
+
+[requires]
+python_version = "3.5"
